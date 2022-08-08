@@ -1,0 +1,12 @@
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\bin\Debug\net5.0\Geometry.deps.json
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\bin\Debug\net5.0\Geometry.dll
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\bin\Debug\net5.0\ref\Geometry.dll
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\bin\Debug\net5.0\Geometry.pdb
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.csproj.AssemblyReference.cache
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.AssemblyInfoInputs.cache
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.AssemblyInfo.cs
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.dll
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\ref\Geometry.dll
+C:\Users\Fedor Andreevich\Desktop\git\Geometry\Geometry\Geometry\obj\Debug\net5.0\Geometry.pdb
