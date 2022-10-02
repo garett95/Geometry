@@ -43,7 +43,10 @@ namespace Geometry
                 else
                     return true;
             }
-            throw new ArgumentException("Side of a triangle must be greater than 0.");
+            else
+            {
+                throw new ArgumentException("Side of a triangle must be greater than 0.");
+            }
         }
     }
 }
