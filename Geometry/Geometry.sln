@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{B39E0297-759D-492D-B53C-A8AC27F1A410}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution 
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
