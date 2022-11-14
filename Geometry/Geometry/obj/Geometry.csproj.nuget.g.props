@@ -13,6 +13,6 @@
     <SourceRoot Include="C:\Users\Fedor Andreevich\.nuget\packages\" />
   </ItemGroup>
   <PropertyGroup>
-    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects> 
   </PropertyGroup>
 </Project>
