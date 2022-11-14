@@ -2,7 +2,7 @@
 
 namespace Geometry
 {
-    public class Circle : IFigure
+    public class Circle : IFigure 
     {
         public Circle(double radius)
         {
