@@ -14,7 +14,7 @@ namespace Geometry
             C = c;
         }
 
-        public double A { get; }
+        public double A { get; } 
         public double B { get; }
         public double C { get; }
 
